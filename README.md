@@ -43,7 +43,7 @@ Gauntlet is a Game Trainer for the Assault Cube.
 <img src="https://user-images.githubusercontent.com/61597947/120083629-59deb500-c0a0-11eb-9f92-0061677f06ac.png" width=100% />
 
 ### Installation
->Install the Python requirements, open the AC and run the Gauntlet
+>Install the Python requirements, open the AC and run the main.py. It's recomended that you use the resolution 1366x768 and do not use Fullscreen mode.
 
 ### Disclaimer
 
