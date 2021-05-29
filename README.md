@@ -47,4 +47,4 @@ Gauntlet is a Game Trainer for the Assault Cube.
 
 ### Disclaimer
 
-The author is not responsibility for any bad use of this software. The purpose of Gauntlet is only educacional. Please do not use it Online.
+The author is not responsible for any bad use of this software. The purpose of Gauntlet is only educacional. Please do not use it Online.
