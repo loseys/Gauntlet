@@ -1,0 +1,4 @@
+pygame==2.0.1
+keyboard==0.13.5
+Pymem==1.8.4
+psutil==5.8.0
