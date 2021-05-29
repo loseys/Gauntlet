@@ -54,4 +54,4 @@ Fullscreen: No
 
 ### Disclaimer
 
-The author is not responsible for any bad use of this software. The purpose of Gauntlet is educacional only. PLEASE do not use it Online.
+The author is not responsible for any bad use of this software. The purpose of Gauntlet is educacional only. PLEASE do not use it online.
