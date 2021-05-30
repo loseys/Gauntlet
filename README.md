@@ -60,10 +60,10 @@ Check the menu and press the key of function that you want to do.
 
     F6 Key: 
       Press one time: sets blue team;
-      Press two times: set red team;
-      Press three times: disable Aimbot on the menu.
+      Press two times: sets red team;
+      Press three times: disables Aimbot in menu.
       
-    CTRL Key: enable and disable the Aimbot.
+    CTRL Key: enables and disables the Aimbot.
 
 ### Disclaimer
 
