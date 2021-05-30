@@ -43,11 +43,11 @@ Gauntlet is a Game Trainer for the Assault Cube.
 <img src="https://user-images.githubusercontent.com/61597947/120083629-59deb500-c0a0-11eb-9f92-0061677f06ac.png" width=100% />
 
 ### Installation
-1 - Unpack the Gauntlet and rename the folder "Gauntlet-main" to Gauntlet
+1 - Unpack the Gauntlet and rename the folder "Gauntlet-main" to Gauntlet;
 
-2 - Install the Python requirements
+2 - Install the Python requirements;
 
-3 - Open the AC and run the main.py
+3 - Open the AC and run the main.py.
 
 ### Configuration of AC
 You'll need to use the full resolution of your monitor and DISABLE the Fullscreen mode.
@@ -59,11 +59,11 @@ Check the menu and press the key of function that you want to do.
 **Aimbot usage:**
 
     F6 Key: 
-      Press one time: sets blue team
-      Press two times: set red team
-      Press three times: disable Aimbot on the menu
+      Press one time: sets blue team;
+      Press two times: set red team;
+      Press three times: disable Aimbot on the menu.
       
-    CTRL Key: enable and disable the Aimbot
+    CTRL Key: enable and disable the Aimbot.
 
 ### Disclaimer
 
