@@ -49,12 +49,22 @@ Gauntlet is a Game Trainer for the Assault Cube.
 
 3 - Open the AC and run the main.py
 
-### Configuration
-Resolution: 1366x768
-
-Fullscreen: No
+### Configuration of AC
+You'll need to use the full resolution of your monitor and DISABLE the Fullscreen mode.
 > Note: if you change your team you'll need to restart the Gauntlet (if you want to use the aimbot)
 
+### How to use
+
+Check the menu and press the key of function that you want to do. 
+
+**Aimbot usage:**
+
+    F6 Key: 
+      Press one time: sets blue team
+      Press two times: set red team
+      Press three times: disable Aimbot on the menu
+      
+    CTRL Key: enable and disable the Aimbot
 
 ### Disclaimer
 
