@@ -51,7 +51,6 @@ Gauntlet is a Game Trainer for the Assault Cube.
 
 ### Configuration of AC
 You'll need to use the full resolution of your monitor and DISABLE the Fullscreen mode.
-> Note: if you change your team you'll need to restart the Gauntlet (if you want to use the aimbot)
 
 ### How to use
 
