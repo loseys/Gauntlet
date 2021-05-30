@@ -124,6 +124,8 @@ class Trainer:
         aimbot = False
         current_player_aimbot = []
         ctrl_aimbot = False
+        current_color_aimbot=None
+        current_color_aimbot_number=0
 
         class ThreadingFunctions:
             """Class that store functions that will be called with threading mode."""
@@ -247,10 +249,13 @@ class Trainer:
                         content = i
 
                         # Verifys if is enemy.
-                        if self.current_team == 1 and content[6]:
+                        # False = 0
+                        # True = 1
+                        if current_color_aimbot == 'blue' and content[1] == (255, 0, 0):
                             continue
-                        if self.current_team == 0 and content[6]:
+                        if current_color_aimbot == 'red'  and content[1] == (0, 0, 255):
                             continue
+
 
                         if content:
                             location = content[2]
@@ -512,10 +517,17 @@ class Trainer:
                         StatusColor.page_3_option_3 = Colors.select
                         SnapShot.page_3_option_3 = Colors.select
                         aimbot = True
+                        current_color_aimbot_number=0
+                        current_color_aimbot = "blue"
+                        
                     else:
-                        StatusColor.page_3_option_3 = Colors.green
-                        SnapShot.page_3_option_3 = Colors.green
-                        aimbot = False
+                        if current_color_aimbot_number == 0:
+                            current_color_aimbot_number+=1
+                            current_color_aimbot = "red"
+                        elif current_color_aimbot_number == 1:    
+                            StatusColor.page_3_option_3 = Colors.green
+                            SnapShot.page_3_option_3 = Colors.green
+                            aimbot = False
                     time.sleep(pressed_key_time_sleep)
 
     def start(self):
