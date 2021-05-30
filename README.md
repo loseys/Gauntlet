@@ -30,10 +30,10 @@ Gauntlet is a Game Trainer for the Assault Cube.
 
 ### Some Features
 
-- [x] Ammo/Life/Vest increase;
-- [x] ESP;
-- [x] Aimbot;
-- [x] Ghost Mode;
+- [x] Ammo/Life/Vest increase
+- [x] ESP
+- [x] Aimbot
+- [x] Ghost Mode
 
 ### Gallery
 
